@@ -3,6 +3,8 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+
+    // First random comment
     public class CartItem : ILineItem
     {
         [Key]
